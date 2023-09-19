@@ -1,0 +1,34 @@
+# Arquivos gerados pela compilação
+target/
+bin/
+*.class
+
+# Arquivos de configuração do Eclipse
+.project
+.classpath
+
+# Diretórios de saída do Eclipse e IntelliJ IDEA
+.settings/
+.idea/
+
+# Arquivos de dependência do Maven
+pom.xml
+pom.xml.lock
+target/
+
+# Arquivos gerados pelo Gradle
+build/
+.gradle/
+
+# Logs e arquivos temporários
+log/
+*.log
+*.log.*
+*.tmp
+
+# Arquivos de configuração do Windows
+Thumbs.db
+.DS_Store
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
